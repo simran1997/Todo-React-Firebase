@@ -11,13 +11,9 @@
 - Add your config file/key by registering and creating app on firebase console.
 - Run following commands for the respectives
   For installing all of the dependencies
-  ###`
-    npm install
-  `
+  ### `npm install`
   For running the project
-  ###`
-    npm start
-  `
+  ### `npm start`
  
 ## Available Scripts
 
