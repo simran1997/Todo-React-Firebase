@@ -1,5 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Todo_ReactFirebase
+- A web apllication developed using React.js framework.
+- Data of the app is handled and stored using Firebase.
+- Basically, by using this app an user can add todo tasks on it.
+- As well as, this application also offers functionalitiess like deleting and updating the already added taks.
+- This web application is hosted on https://todo-app-firebase-ca8b8.web.app 
 
+
+# Instruction to run the project
+- Simply clone/download the project.
+- Add your config file/key by registering and creating app on firebase console.
+- Run following commands for the respectives
+  For installing all of the dependencies
+  ```javascript
+    npm install
+  ```
+  For running the project
+  ```javascript
+    npm start
+  ```
+ 
 ## Available Scripts
 
 In the project directory, you can run:
